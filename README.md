@@ -18,7 +18,7 @@ To build and flash the project:
 
 ```bash
 # build the project
-west build -b swan_r5 app
+west build -b swan_r5 blues-bilge-alarm/app
 # flash the project
 west flash
 ```
