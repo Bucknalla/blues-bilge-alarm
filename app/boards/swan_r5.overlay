@@ -1,0 +1,17 @@
+/ {
+    aliases {
+        notecard = &i2c1;
+    };
+
+    chosen {
+        zephyr,cortex-m-idle-timer = &rtc;
+    };
+
+    alarms {
+        compatible = "gpio-keys";
+        alarm0: alarm_0 {
+            gpios = <&feather_header 20 GPIO_ACTIVE_HIGH>;
+            label = "Alarm";
+        };
+    };
+};
