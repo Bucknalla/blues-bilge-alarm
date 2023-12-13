@@ -22,3 +22,5 @@ west build -b swan_r5 blues-bilge-alarm/app
 # flash the project
 west flash
 ```
+
+> Note: In order to flash the Swan board using `west flash`, you'll need to use an external programmer. For example the [ST-LINK/V3](https://shop.blues.com/collections/accessories) programmer.
