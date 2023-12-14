@@ -1,6 +1,6 @@
 # blues-bilge-alarm
 
-Bilge Alarm using Blues Wireless Notecard Cell + WiFi. Check out the write up on [Hackster.io](https://www.hackster.io/bucknalla/cellular-bilge-alarm-monitoring-with-blues-wireless-fd1093).
+Bilge Alarm using Blues Notecard Cell + WiFi. Check out the write up on [Hackster.io](https://www.hackster.io/bucknalla/cellular-bilge-alarm-monitoring-with-blues-wireless-fd1093).
 
 ## Setup
 
